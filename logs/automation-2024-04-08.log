@@ -1,0 +1,57 @@
+13:41:01.083 [main] INFO  factory.BaseClass - User enters valid amount in Giftcard page.. 
+13:41:01.415 [main] INFO  factory.BaseClass - User selects month and date.. 
+13:41:02.384 [main] INFO  factory.BaseClass - User clicks confirm button.. 
+13:41:02.553 [main] INFO  factory.BaseClass - User passes values from excel.. 
+13:41:02.855 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:41:02.862 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:41:02.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:41:05.608 [main] INFO  factory.BaseClass - User clicks submit button.. 
+13:41:21.953 [main] INFO  factory.BaseClass - User checks page is visible ?.. 
+13:41:22.305 [main] INFO  factory.BaseClass - Driver closed.. 
+13:41:25.135 [main] INFO  factory.BaseClass - driver opens.. 
+13:41:39.906 [main] INFO  factory.BaseClass - User selects birthday/occassion.. 
+13:41:40.045 [main] INFO  factory.BaseClass - User enters valid amount in Giftcard page.. 
+13:41:40.344 [main] INFO  factory.BaseClass - User selects month and date.. 
+13:41:41.028 [main] INFO  factory.BaseClass - User clicks confirm button.. 
+13:41:41.143 [main] INFO  factory.BaseClass - User passes value from excel.. 
+13:41:41.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:41:41.153 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:41:41.155 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:41:43.224 [main] INFO  factory.BaseClass - User clicks submit button.. 
+13:41:54.105 [main] INFO  factory.BaseClass - Driver closed.. 
+13:41:56.790 [main] INFO  factory.BaseClass - driver opens.. 
+13:42:13.559 [main] INFO  factory.BaseClass - User selects birthday/occassion.. 
+13:42:13.721 [main] INFO  factory.BaseClass - User enters valid amount in Giftcard page.. 
+13:42:14.032 [main] INFO  factory.BaseClass - User selects month and date.. 
+13:42:14.727 [main] INFO  factory.BaseClass - User clicks confirm button.. 
+13:42:14.854 [main] INFO  factory.BaseClass - User passes value from excel.. 
+13:42:14.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:42:14.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:42:14.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:42:17.012 [main] INFO  factory.BaseClass - User clicks submit button.. 
+13:42:33.313 [main] INFO  factory.BaseClass - User validates the data eneterd with data displayed.. 
+13:42:33.680 [main] INFO  factory.BaseClass - Driver closed.. 
+13:43:06.503 [main] INFO  factory.BaseClass - driver opens.. 
+13:43:22.550 [main] INFO  factory.BaseClass - Driver closed.. 
+13:43:24.533 [main] INFO  factory.BaseClass - driver opens.. 
+13:43:37.292 [main] INFO  factory.BaseClass - User validates the scroll.. 
+13:43:37.327 [main] INFO  factory.BaseClass - User clicks on living storage header.. 
+13:43:37.628 [main] INFO  factory.BaseClass - User extracts all items under living storage.. 
+13:43:41.310 [main] INFO  factory.BaseClass - Driver closed.. 
+13:43:47.391 [main] INFO  factory.BaseClass - driver opens.. 
+13:44:05.331 [main] INFO  factory.BaseClass - Driver closed.. 
+13:44:08.178 [main] INFO  factory.BaseClass - driver opens.. 
+13:44:32.464 [main] INFO  factory.BaseClass - Driver closed.. 
+13:44:36.274 [main] INFO  factory.BaseClass - driver opens.. 
+13:44:52.975 [main] INFO  factory.BaseClass - Driver closed.. 
+13:44:55.441 [main] INFO  factory.BaseClass - driver opens.. 
+13:45:12.797 [main] INFO  factory.BaseClass - User selects birthday/occassion.. 
+13:45:13.026 [main] INFO  factory.BaseClass - User enters valid amount in Giftcard page.. 
+13:45:13.527 [main] INFO  factory.BaseClass - User selects month and date.. 
+13:45:14.951 [main] INFO  factory.BaseClass - User clicks confirm button.. 
+13:45:15.209 [main] INFO  factory.BaseClass - User passes value from excel.. 
+13:45:15.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:45:15.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:45:15.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:45:18.471 [main] INFO  factory.BaseClass - User clicks submit button.. 
+13:45:29.796 [main] INFO  factory.BaseClass - Driver closed.. 
